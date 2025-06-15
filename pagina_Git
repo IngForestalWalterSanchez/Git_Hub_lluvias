@@ -1,0 +1,7 @@
+echo "# Git_Hub_lluvias" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/IngForestalWalterSanchez/Git_Hub_lluvias.git
+git push -u origin main
